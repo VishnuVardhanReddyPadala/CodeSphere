@@ -2,7 +2,7 @@
 
 ## 📖 About
 
-This repository contains my solutions to **209+ LeetCode problems** implemented in **Python**. It showcases my problem-solving journey across various Data Structures and Algorithms topics while preparing for coding interviews and improving algorithmic thinking.
+This repository contains my solutions to **209+ LeetCode problems** implemented in **Python**. It showcases my problem-solving journey across various Data Structures and Algorithms topics while preparing for coding and improving algorithmic thinking.
 
 ## 📊 Progress
 
